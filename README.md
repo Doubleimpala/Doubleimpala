@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Orca Engine](https://github.com/Doubleimpala/OrcaEngine)
 
-- 🌱 I’m currently learning **low level SWE (such as C).
+- 🌱 I’m currently learning **low level SWE (such as C).**
 
 - 🛠️ Major Experience:
 
-  - Coursework (C/C++, Kotlin, Assembly)
-  - FRC Robotics Team (Java, Python)
-  - Personal Projects (Python)**
+  - **Coursework** (C/C++, Kotlin, Assembly)
+  - **FRC Robotics Team** (Java, Python)
+  - **Personal Projects** (Python)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
