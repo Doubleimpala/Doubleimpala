@@ -11,7 +11,7 @@
 
 - 🛠️ Major Experience:
 
-  - **Coursework** (C/C++, Kotlin, Assembly)
+  - **Coursework** (C/C++, Kotlin, LC3 and RISQ Assembly)
   - **FRC Robotics Team** (Java, Python)
   - **Personal Projects** (Python)
 
