@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doubleimpala" alt="doubleimpala" /></a> </p>
 
-- 🔭 I’m currently working on **coursework in C/C++, LC3 assembly, and Kotlin.**
+- 🔭 I’m currently working on **coursework in C/C++, LC3 assembly.**
 
 - 🌱 I’m currently learning **low level SWE (such as C).**
 
 - 🛠️ Major Experience:
 
-  - **Coursework** (C/C++, Kotlin, LC3 and RISQ Assembly)
+  - **Coursework** (C/C++, LC3 and RISC Assembly)
   - **FRC Robotics Team** (Java, Python)
   - **Personal Projects** (Python)
 
