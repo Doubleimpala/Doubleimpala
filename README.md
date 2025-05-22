@@ -11,9 +11,9 @@
 
 - 🛠️ Major Experience:
 
-  - **Coursework** (C and C++, LC3 and RISC Assembly, kotlin)
+  - **Coursework** (C and C++, LC3 and RISC Assembly, Kotlin)
   - **FRC Robotics Team** (Java, Python)
-  - **Personal Projects** (Python, Verilog, java, javascript, typescript)
+  - **Personal Projects** (Python, Verilog, Java, Javascript, Typescript)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
