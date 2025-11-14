@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doubleimpala" alt="doubleimpala" /></a> </p>
 
-- 🔭 I’m currently working on **coursework in C++, building my own RISC based CPU from scratch.**
+- 🔭 I’m currently working on **building my own RISC based CPU, 3d polygonal rendering.**
 
 - 🌱 I’m currently learning **System Verilog, reinforcement learning, signal processing**
-
-- 🛠️ Major Experience:
-
-  - **Coursework** (C and C++, LC3 and RISC Assembly, Kotlin)
-  - **FRC Robotics Team** (Java, Python)
-  - **Personal Projects** (Python, Verilog, Java, Javascript, Typescript)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
