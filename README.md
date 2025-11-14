@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doubleimpala" alt="doubleimpala" /></a> </p>
 
-- 🔭 I’m currently working on **building my own RISC based CPU, 3d polygonal rendering.**
+- 🔭 I’m currently working on **building my own RISC based CPU, and a tiny GPU for 3d polygonal rendering (with textures!).**
 
 - 🌱 I’m currently learning **System Verilog, reinforcement learning, signal processing**
 
