@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 <h3 align="center">A Computer Engineering Student at University of Illinois Urbana-Champaign</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doubleimpala&label=Profile%20views&color=0e75b6&style=flat" alt="doubleimpala" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doubleimpala" alt="doubleimpala" /></a> </p>
-
-- 🔭 I’m currently working on **building my own RISC based CPU, and a tiny GPU for 3d polygonal rendering (with textures!).**
-
-- 🌱 I’m currently learning **System Verilog, reinforcement learning, signal processing**
+- 🔭 I’m currently working on **building my own RISC V CPU, and a tiny GPU for 3d polygonal rendering (with textures!).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
