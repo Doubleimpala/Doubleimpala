@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 <h3 align="center">A Computer Engineering Student at University of Illinois Urbana-Champaign</h3>
 
-- 🔭 I’m currently working on **building my own RISC V CPU, and a tiny GPU for 3d polygonal rendering (with textures!).**
+- 🔧 I’m currently working on **building my own RISC V CPU, and a tiny GPU for 3d polygonal rendering (with textures!).**
+- 🔍 Conducting research with **tensor accelerators.**
+- 🔭 Always looking for more opportunity to explore **hardware design.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
