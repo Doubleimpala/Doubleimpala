@@ -3,7 +3,7 @@
 
 - 🔧 I’m currently working on **building an out of order RISC V CPU, and a tiny GPU for 3d polygonal rendering (with textures!).**
 - 🔍 Conducting research with **custom tensor accelerator designs on FPGAs and compiler systems.**
-- 🔭 Always looking for more opportunity to explore **hardware design.**
+- 🔭 Always looking for more opportunity to explore **hardware design and low level systems software.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
