@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering Student at University of Illinois Urbana-Champaign</h3>
 
 - 🔧 I’m currently working on **building an out of order RISC V CPU, and a tiny GPU for 3d polygonal rendering (with textures!).**
-- 🔍 Conducting research with **tensor accelerators.**
+- 🔍 Conducting research with **custom tensor accelerator designs on FPGAs and compiler systems.**
 - 🔭 Always looking for more opportunity to explore **hardware design.**
 
 <h3 align="left">Connect with me:</h3>
