@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 <h3 align="center">A Computer Engineering Student at University of Illinois Urbana-Champaign</h3>
 
-- 🔧 I’m currently working on **building an out of order RISC V CPU, and a tiny GPU for 3d polygonal rendering (with textures!).**
-- 🔍 Conducting research with **custom tensor accelerator designs on FPGAs and compiler systems.**
-- 🔭 Always looking for more opportunity to explore **hardware design and low level systems software.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanmay-garudadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay garudadri" height="30" width="40" /></a>
